@@ -6,3 +6,15 @@
  ## Funcionalidades
 - Cálculo de seno, cosseno e tangente de um ângulo
 - Aplicação do teorema de pitágoras para calcular a hipotenusa ou os catetos
+
+## Tecnologias Utilizadas
+- Linguagem de programação: Python
+- IDE: Visual Studio Code
+- Github para controle de versão e colaboração
+
+## Membros do grupo
+- Aline de souza
+- Arthur Cavalcanti
+- Rafaella Ferreira
+- Renan Henrique
+- Weslley Vicente
